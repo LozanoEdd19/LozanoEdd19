@@ -8,13 +8,13 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🛠 Skills
 
-| Languages | Frameworks | DataBases |
-| ------ | ------ | ------ |
-| JavaScript | Ionic | SQL Server |
-| TypeScript | Angular | MySQL |
-| C# | Astro | SQLite |
-| PHP | Net Core | |
-|  | Laravel | |
+| Languages | Frameworks | DataBases | ERP Software |
+| ------ | ------ | ------ | ------ |
+| JavaScript | Ionic | SQL Server | SAP Business One |
+| TypeScript | Angular | MySQL | |
+| C# | Astro | SQLite | |
+| PHP | Net Core | | |
+|  | Laravel | | |
 
 
 
