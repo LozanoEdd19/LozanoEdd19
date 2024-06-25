@@ -8,12 +8,13 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🛠 Skills
 
-### Frameworks
-- Ionic
-- Angular
-- Astro
-- Net Core
-- Laravel
+| Languages | Frameworks |
+| ------ | ------ |
+| JavaScript | Ionic |
+| TypeScript | Angular |
+| C# | Astro |
+| PHP | Net Core |
+|  | Laravel |
 
 
 <!---
