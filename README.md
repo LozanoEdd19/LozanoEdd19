@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a passionate software developer with expertis
 - 👀 I’m interested in coding, video games, music and technologies that improve my skills.
 - 🔭 I’m currently working on various full-stack projects using SAP Business One SDK.
 - 🌱 I’m always learning and exploring new programming languages, frameworks, and best practices.
-- ⚡ Fun fact: When I'm not coding, you can find me compulsively shopping on Amazon.
+- ⚡ Fun fact: When I'm not coding, you can find me compulsively shopping on Amazon, or lying in bed watching movies and series.
 
 ## 🛠 Skills
 
